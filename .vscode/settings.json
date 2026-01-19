@@ -1,0 +1,5 @@
+{
+  "window.titleSeparator": "- ",
+  "window.title": "${dirty}${activeEditorShort} ${separator}${rootName}",
+  "window.commandCenter": true
+}
